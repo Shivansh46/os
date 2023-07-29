@@ -1,6 +1,6 @@
 # Heritians - Empowering Villages, Enriching Lives
 
-![Heritians Logo](logo.png)
+![Heritians Logo](vitb-logo-vector.png)
 
 Welcome to the Heritians GitHub repository! This repository serves as the central hub for our transformative project aimed at uplifting self-sufficient and sustainable village clusters across India. Led by our dedicated team in collaboration with VIT Bhopal University and Unnat Bharat Abhiyan (UBA), Heritians is rooted in the vision of indigenous development.
 
