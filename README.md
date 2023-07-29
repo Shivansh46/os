@@ -23,7 +23,7 @@ With our ML-based Website project, we bridge the gap between tradition and innov
 At the heart of our endeavor lies our passion for uplifting lives. During a recent visit to the enchanting village of Lasudiya Khas, we were humbled by the overwhelming response from over 70 volunteer students who earnestly engaged with the local community, embracing their lifestyles, and understanding their needs. This experience touched us profoundly, reinforcing our commitment to making a tangible impact at the ground level.
 
 <p align="center">
-  <img src="volunteers.jpg" alt="Volunteers at Work" width="500px">
+  <img src="ubav4.jpg" alt="Volunteers at Work" width="500px">
 </p>
 
 ## 📊 Unleashing Insights, Enhancing Quality of Life
