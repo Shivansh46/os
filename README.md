@@ -22,7 +22,7 @@ The data we meticulously collect becomes a wellspring of insights and graphs tha
 
 As we embark on this transformative journey, we extend an open invitation to like-minded individuals and organizations to join us in this mission. Together, we can create ripples of change that reverberate far beyond the boundaries of any one village.
 
-![Heritians]([path_to_your_image.jpg](https://drive.google.com/file/d/1PyKd7k-eUdB_E22b00hqObxECOCHyzIB/view?usp=drive_link))
+![Heritians](about1.png)
 
 Explore our GitHub repository and contribute to the cause. Be part of the change, and let's build a future where innovation, tradition, and compassion converge to create a prosperous society for all.
 
