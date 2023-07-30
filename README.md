@@ -15,7 +15,7 @@ The core mission of Heritians is to leverage the power of cutting-edge Machine L
 With our ML-based Website project, we bridge the gap between tradition and innovation, bringing together the age-old wisdom of rural communities and the advanced tools of the modern era. By fostering this harmonious union, we create a platform that celebrates cultural heritage while propelling villages towards a brighter future.
 
 <p align="center">
-  <img src="village1.jpg" alt="Village" width="500px">
+  <img src="IMG_2453.jpg" alt="Village" width="500px">
 </p>
 
 ## 🤝 Enriching Lives, One Village at a Time
