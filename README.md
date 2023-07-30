@@ -31,7 +31,7 @@ At the heart of our endeavor lies our passion for uplifting lives. During a rece
 The data we meticulously collect becomes a wellspring of insights and graphs that serve as guiding stars for developmental endeavors. Armed with this information, we endeavor to collaborate with government bodies, NGOs, and local leaders to implement sustainable initiatives that improve the quality of life for 1000+ villagers.
 
 <p align="center">
-  <img src="data_insights.png" alt="Data Insights" width="500px">
+  <img src="ubav3.jpg" alt="Data Insights" width="500px">
 </p>
 
 ## 🤝 Join the Movement
